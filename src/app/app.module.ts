@@ -2,10 +2,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { EmmetComponent } from './emmet/emmet.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    EmmetComponent
   ],
   imports: [
     BrowserModule
