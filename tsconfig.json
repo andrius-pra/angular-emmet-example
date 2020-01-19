@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "plugins": [
+      {
+        "name": "typescript-embedded-language-services-for-angular-plugin"
+      },
+      {
+        "name": "@angular/language-service"
+      }
     ]
   },
   "angularCompilerOptions": {
