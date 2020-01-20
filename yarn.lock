@@ -184,9 +184,9 @@
   resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-9.0.0-rc.9.tgz#ffd8b1571fdb305dcee4aa8903c4c08a10c03fcb"
   integrity sha512-7cJd0ROkRyoA1TwHJ31tbvrJEMVTysuNjT3MTgutYV9oMKp10/M5qqqUvQdXfeLxu1a9qknN/8yNRTqn3h6j3A==
 
-"@angular/language-service@https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9+728.sha-51c7087.tgz":
+"@angular/language-service@https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9-with-local-changes.tgz":
   version "0.0.0"
-  resolved "https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9+728.sha-51c7087.tgz#25cee22e67c1aaa96400bb24039308b948fa6707"
+  resolved "https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9-with-local-changes.tgz#4fef9a2b8ecd3dc6d15d9c9b20e48a83ffc932a8"
 
 "@angular/platform-browser-dynamic@~9.0.0-rc.9":
   version "9.0.0-rc.9"
@@ -7933,9 +7933,9 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-"typescript-embedded-language-services-for-angular-plugin@https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.1/typescript-embedded-language-services-for-angular-plugin-v0.0.1.tgz":
-  version "0.0.1"
-  resolved "https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.1/typescript-embedded-language-services-for-angular-plugin-v0.0.1.tgz#c4ff4c71f1c0a0b866a8cfbaec4be2469a825905"
+"typescript-embedded-language-services-for-angular-plugin@https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.2/typescript-embedded-language-services-for-angular-plugin-v0.0.2.tgz":
+  version "0.0.2"
+  resolved "https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.2/typescript-embedded-language-services-for-angular-plugin-v0.0.2.tgz#22a7e962b24cd5b00cc261bb8dac2e8bd57e7ff7"
   dependencies:
     vscode-css-languageservice "^4.0.2"
     vscode-emmet-helper "^1.2.17"

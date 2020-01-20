@@ -1,4 +1,5 @@
 {
     "typescript.tsdk": "node_modules\\typescript\\lib",
-    "angular.ngdk": "node_modules"
+    "angular.ngdk": "node_modules",
+    "typescript.tsserver.useSeparateSyntaxServer": false
 }

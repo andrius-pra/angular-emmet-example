@@ -21,14 +21,14 @@
     "@angular/router": "~9.0.0-rc.9",
     "rxjs": "~6.5.3",
     "tslib": "^1.10.0",
-    "typescript-embedded-language-services-for-angular-plugin": "https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.1/typescript-embedded-language-services-for-angular-plugin-v0.0.1.tgz",
+    "typescript-embedded-language-services-for-angular-plugin": "https://github.com/andrius-pra/typescript-embedded-language-services-for-angular-plugin/releases/download/0.0.2/typescript-embedded-language-services-for-angular-plugin-v0.0.2.tgz",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.900.0-rc.9",
     "@angular/cli": "~9.0.0-rc.9",
     "@angular/compiler-cli": "~9.0.0-rc.9",
-    "@angular/language-service": "https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9+728.sha-51c7087.tgz",
+    "@angular/language-service": "https://npmpackages.blob.core.windows.net/andrius-pra/language-service-9.0.0-rc.9-with-local-changes.tgz",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
@@ -43,10 +43,6 @@
     "protractor": "~5.4.2",
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
-    "typescript": "3.7.5",
-    "vscode-css-languageservice": "^4.0.2",
-    "vscode-emmet-helper": "^1.2.17",
-    "vscode-html-languageservice": "^2.1.10",
-    "vscode-languageserver-types": "^3.13.0"
+    "typescript": "3.7.5"
   }
 }
